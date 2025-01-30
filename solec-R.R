@@ -1,0 +1,1 @@
+print ("Resolvamos la escuacion de segundo grado")
